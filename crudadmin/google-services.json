@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759038377494",
+    "project_id": "crudadmin-136ee",
+    "storage_bucket": "crudadmin-136ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759038377494:android:c96a50d1e9f4577e8aff37",
+        "android_client_info": {
+          "package_name": "com.example.crudadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759038377494-tkqo31tkerjqdqn7qijiper56hntqetg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxJFHJMF1pLeIZ23MKbnxJuxT1lDUBBMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759038377494-tkqo31tkerjqdqn7qijiper56hntqetg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

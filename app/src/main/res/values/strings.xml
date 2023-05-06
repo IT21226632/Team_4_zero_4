@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="add_pharmacy_button">Add</string>
+    <string name="create_pharmacy">Create</string>
+    <string name="getting_started">Getting Started</string>
+    <string name="login_button">Login</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="nearby_pharmacy_shops">Nearby Pharmacy Shops</string>
+    <string name="create_account_page">Create Account</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="add_to_recipe_button">Add to Recipe</string>
+    <string name="profile">Profile</string>
+    <string name="log_out_button">Log Out</string>
+    <string name="delete_button">Delete</string>
+    <string name="user_Name">Sunil Perera</string>
+    <string name="pharmacy_Name">Eifel Pharmacy</string>
+    <string name="medicine_Name">Penadol</string>
+    <string name="phamacy">Eifel Phamacy</string>
+    <string name="Pharmacy_address">NO 880, Freeman Road, Anuradhapura</string>
+    <string name="open_hours">08.30 AM : 05.00 PM</string>
+    <string name="price">850.00</string>
+    <string name="availble_stock">12 packs</string>
+    <string name="login_botton2">Login</string>
+    <string name="add_pharmacy">Add</string>
+    <string name="login">login</string>
+    <string name="add_to_recipe">Add to Recipe</string>
+    <string name="create_account">Create</string>
+</resources>
